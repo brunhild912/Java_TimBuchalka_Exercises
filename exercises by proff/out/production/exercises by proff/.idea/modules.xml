@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Control Flow Statements/Control Flow Statements.iml" filepath="$PROJECT_DIR$/Control Flow Statements/Control Flow Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Tutorials Expressions Statements Code blocks methods more/Java Tutorials Expressions Statements Code blocks methods more.iml" filepath="$PROJECT_DIR$/Java Tutorials Expressions Statements Code blocks methods more/Java Tutorials Expressions Statements Code blocks methods more.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Constrcutors/OOP Constrcutors.iml" filepath="$PROJECT_DIR$/OOP Constrcutors/OOP Constrcutors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercises by proff.iml" filepath="$PROJECT_DIR$/.idea/exercises by proff.iml" />
+    </modules>
+  </component>
+</project>
